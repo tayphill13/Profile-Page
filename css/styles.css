@@ -14,10 +14,10 @@ body {
 
 .picture {
   border-radius: 50%;
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 130px;
+  max-height: 175px;
   float: left;
-  padding: 5px;
+  padding: 10px;
 }
 .well {
   background-color: midnightblue;
