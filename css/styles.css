@@ -2,7 +2,7 @@
 body {
   background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg);
   background-size: auto;
-  color: rgb(4, 255, 38);
+  color: rgb(96, 255, 4);
 }
 
 .jumbotron  {
@@ -16,4 +16,8 @@ body {
   max-width: 100px;
   float: left;
   opacity: none;
+}
+
+.well {
+  background-color: midnightblue;
 }
