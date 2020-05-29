@@ -18,12 +18,14 @@ body {
   max-height: 150px;
   float: left;
   padding: 5px;
-  opacity: none;
+}
+.kids {
+  opacity: 1;
 }
 
 .well {
   background-color: midnightblue;
-  opacity: 80%;
+  opacity: 85%;
   column-width: 80%;
 }
 .list {
