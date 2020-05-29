@@ -14,7 +14,8 @@ body {
 
 .picture {
   border-radius: 50%;
-  max-width: 100px;
+  max-width: 150px;
+  max-height: 150px;
   float: left;
   padding: 5px;
   opacity: none;
