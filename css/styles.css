@@ -4,7 +4,7 @@ body {
 }
 
 .picture {
-  border-radius: 70%;
-  max-width: 20rem;
+  border-radius: 50%;
+  max-width: 100px;
   float: left;
 }
