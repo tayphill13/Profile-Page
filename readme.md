@@ -18,7 +18,7 @@ and some pictures of my favorite people and dog.  This was meant to be a demonst
 * _Unpack the zip file to a location on your computer_
 * _Open the index.html in your preferred web browser_
 
-_Here is a link to the deployed page on gh-pages <>_
+_Here is a link to the deployed page on gh-pages <https://tayphill13.github.io/Profile-Page/>_
 
 ## Known Bugs
 
