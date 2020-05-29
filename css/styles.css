@@ -26,7 +26,10 @@ body {
   opacity: 80%;
   column-width: 80%;
 }
+.list {
+  color: white;
+}
 
 #github {
-  color: whitesmoke;
+  color: rgb(255, 44, 44);
 }
