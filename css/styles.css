@@ -1,28 +1,24 @@
-
 body {
   background-image: url(https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg);
   background-size: auto;
   color: rgb(96, 255, 4);
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .jumbotron  {
   background-color: midnightblue;
   color: rgb(255, 255, 255);
   opacity: 90%;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .picture {
   border-radius: 50%;
-  max-width: 150px;
-  max-height: 150px;
+  max-width: 130px;
+  max-height: 175px;
   float: left;
-  padding: 5px;
+  padding: 10px;
 }
-.kids {
-  opacity: 1;
-}
-
 .well {
   background-color: midnightblue;
   opacity: 85%;
