@@ -1,0 +1,9 @@
+
+body {
+  background-color: antiquewhite;
+}
+
+.picture {
+  border-radius: 70%;
+  max-width: 20rem;
+}
