@@ -32,6 +32,7 @@ _HTML_
 _CSS_
 _Bootstrap_
 _Markdown_
+_URL shortener extension on Google Chrome_
 
 ### License
 
