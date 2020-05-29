@@ -6,4 +6,5 @@ body {
 .picture {
   border-radius: 70%;
   max-width: 20rem;
+  float: left;
 }
